@@ -1,0 +1,29 @@
+/*
+* Grace Fairchild
+* 4/9/2019
+* Crete Greece
+*/
+
+/* The universal selector */
+
+* {
+    
+}
+
+body {
+    background-color:beige
+} /* Changing color of the background */
+
+h1 {font-family:fantasy} /*Changing font and color for heading 1*/
+h1 { color:darkgrey; }
+
+h2 {font-family:fantasy} /*Changing font and color for heading 2*/
+h2 { color:darkgrey; }
+
+figcaption {font-family:fantasy} /* Changing font and color for image captions*/
+figcaption {color:darkgrey; }
+
+img { width: 300px; height: 250px}  /* Image sizing */
+#next_para {clear: left;}
+
+table, td, th {border: 2px solid darkgrey; } /*Changing border color and sizing*/
